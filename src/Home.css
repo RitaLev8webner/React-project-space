@@ -1,0 +1,54 @@
+
+.header-image {
+
+    background-image: url("./image/header.jpg");
+    height:100px;
+    
+}
+
+.text-align{
+    text-align: center;
+}
+.keenSmartz-text {
+    font-size: 35px;
+   
+    padding-bottom: 1%;
+    margin-top:5%;
+}
+
+.put-line{
+    margin :40%;
+   text-decoration-line: underline;
+   text-decoration-style: double;
+   
+}
+
+.float-left{
+    float: left;
+}
+.float-right{
+    float:right;
+}
+
+.image{
+   
+
+        background-image: url("./image/home.jpg");
+        height:300px;
+        width:550px;
+        margin-left:15%;
+        margin-top:10%;
+        
+   
+}
+.text-div{ 
+    margin-left:12%;
+    vertical-align: top;
+    text-align: justify;
+    width:70%;
+    margin-top:4%;
+    
+ }
+ ul {
+    line-height: 30px;
+  }

@@ -7,6 +7,7 @@
   pointer-events: none;
 }
 
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -35,4 +36,52 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.app-mypic{
+  height: 200px;
+  width:180px;
+  float:left;
+  margin-left:10%;
+  margin-right:5%;
+  clip-path: circle();
+}
+.app-profile{
+ text-align: center;
+}
+.app-background{
+  background-color: lightgray;
+  vertical-align: top;
+
+}
+.app-font{
+  font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+.app-td{
+  width:50%;
+}
+.app-table{
+  margin-left:10%;
+  margin-right:5%;
+
+}
+
+.app-float-right{
+  float:right;
+  height: 600px;
+  width:890px;
+  opacity: 0.3;
+
+}
+.app-div-width{
+  width:50%;
+}
+.app-p{
+  margin-left:2%;
+  margin-right:5%;
+}
+
+.backgroundColor {
+  background-color: #FF7F50;
+  color: white;
 }
